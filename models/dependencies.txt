@@ -1,0 +1,5 @@
+onnx==1.6.0
+-e git+https://github.com/onnx/onnx-tensorflow.git@82d54e4a66b706857927e7a8543c220b8c091738#egg=onnx_tf
+tensorboard==1.15.0
+tensorflow==1.15.0
+torch==1.4.0
